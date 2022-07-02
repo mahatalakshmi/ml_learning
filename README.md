@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mahatalakshmi
-- 👀 I’m interested in coding,AI and robotics
-- 🌱 I’m currently learning AI and ML
+- 👀 I’m interested in coding,AI,Web development.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on AI projects.
-- 📫 How to reach me throught email
+- 📫 Reach me throught email
 
 <!---
 mahatalakshmi/mahatalakshmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
